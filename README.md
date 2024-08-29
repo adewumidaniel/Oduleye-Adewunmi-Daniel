@@ -34,7 +34,7 @@ In the initial data preparation phase, we performed the following task:
 
 ### Exploratory Data Analysis
 
-EDA invloved exploring the sales data to answer key question such as:
+EDA invloved exploring the Revenue performance data to answer key question such as:
 
 - What is the overall Revenue trend by month
 - Which Country has the higest revenue
