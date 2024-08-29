@@ -76,6 +76,6 @@ Based on the analysis, we recommend the following actions:
 - I had to create new measure that will calculate sum_hourly_rate, in other to know the number of hours client worked to have the total revenue.
 - Create new measure for Revenue_%_Region to understand the revenue made by each region in review
 
-### Refeences
+### References
 
 1. Ayotunde Ajibola **Power BI & SQL | Data Analyst Portfolio Project | SQL Database to Power BI Dashboard #powerbipro**
