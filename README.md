@@ -48,7 +48,8 @@ EDA invloved exploring the Revenue performance data to answer key question such 
 
 Include some interesting formal worked with
 
-``` POWER BI
+```
+ POWER BI
 - Revenue_%_Region = DIVIDE(SUM(Table1[service_time]),CALCULATE(Table1[Total Revenue],ALL(Table1[service_date]))*100)
 - sum_hourly_rate = SUM(Table1[Sum of Hourly Rate])
 - No of Client = DISTINCTCOUNT(Table1[client_name])
